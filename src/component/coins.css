@@ -1,0 +1,47 @@
+.coins  .box{
+    display: inline-block;
+}
+.box{
+    background-color: goldenrod;
+    justify-content: space-between;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    width: 700px;
+}
+.box h1{
+    color: white;
+    font-size: 20px;
+}
+.box button{
+    width: 100px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: lightgreen;
+    color: black;
+    font-weight: 700;
+}
+.image img{
+    height: 100px;
+    width: 100px;
+}
+.desc h1{
+    color: black;
+    font-size: 20px;
+}
+.desc div{
+    display: inline-block;
+    margin: 10px;
+}
+.stat h1{
+    font-size: 20px;
+}
+.stat div{
+    display: inline-block;
+    height: 100px;
+    width: 330px;
+    background-color: darkorange;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
